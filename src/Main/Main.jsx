@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './Main.module.css';
-
+import photo from '../assets/images/1530544023_n6fgwzftnvg.jpg'
 
 function Main(props) {
     return (
@@ -14,7 +14,7 @@ function Main(props) {
                     <span>I'm front-end developer</span>
                 </div>
                 <div className={style.photo}>
-                <img src='' alt="My photo" />
+                    <img src={photo} alt="my photo"/>
                 </div>
             </div>
         </div>

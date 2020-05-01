@@ -19,12 +19,17 @@ display: flex;
 }
 
 .photo {
+
+
+
+}
+.photo img {
     height: 400px;
     width: 300px;
-    background-color: gray;
-
+    object-fit: contain;
 }
 
 .myName {
-    font-family: Yandex-UI-Icons-Private;
+
+    /*font-family: Yandex-UI-Icons-Private;*/
 }
