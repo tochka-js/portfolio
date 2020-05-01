@@ -14,6 +14,7 @@ function Main(props) {
                     <span>I'm front-end developer</span>
                 </div>
                 <div className={style.photo}>
+                    
                     <img src={photo} alt="my photo"/>
                 </div>
             </div>
