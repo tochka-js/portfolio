@@ -1,0 +1,41 @@
+.footerBox {
+    min-height: 20vh;
+    background-color: #EBFFE4;
+    display: flex;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.container {
+    min-width: 80%;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+
+
+}
+
+
+.icons {
+    width: 80%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+@media screen and (max-width: 333px){
+    .icons {
+        width: 100%;
+
+    }
+
+}

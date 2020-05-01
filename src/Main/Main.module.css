@@ -1,0 +1,30 @@
+.mainBox {
+    min-height: 100vh;
+    background-color: #FFDEE9;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.greeting {
+display: flex;
+    flex-direction: column;
+}
+
+.photo {
+    height: 400px;
+    width: 300px;
+    background-color: gray;
+
+}
+
+.myName {
+    font-family: Yandex-UI-Icons-Private;
+}

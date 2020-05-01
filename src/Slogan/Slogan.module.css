@@ -1,0 +1,25 @@
+.sloganBox {
+    height: 30vh;
+    background-color: #FFFEEC;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.title {
+
+}
+
+
+.button  {
+    min-width: 30%;
+
+}
