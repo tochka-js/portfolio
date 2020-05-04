@@ -19,12 +19,13 @@ display: flex;
 }
 
 .photo {
-
+    height: 400px;
+    width: 300px;
 
 
 }
 .photo img {
-    height: 400px;
+
     width: 300px;
     object-fit: contain;
 }
